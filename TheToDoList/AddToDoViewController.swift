@@ -23,7 +23,7 @@ class AddToDoViewController: UIViewController {
 
     @IBAction func addTapped(_ sender: Any) {
         
-      /*
+      
         let toDo = ToDo()
         
         if let titleText = titleTextField.text {
@@ -35,7 +35,7 @@ class AddToDoViewController: UIViewController {
             
             navigationController?.popViewController(animated: true)
         }
- */
+ 
     
     }
     
